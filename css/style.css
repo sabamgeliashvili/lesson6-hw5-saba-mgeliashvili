@@ -23,8 +23,8 @@
 	margin-left: 95px;
 
 }
-.firstblock{width: 1360px;
-margin: 0 auto;
+.firstblock{/*width: 1360px;*/
+/*margin: 0 auto;*/
 position: relative;}
 .header{ background-color: lightseagreen;
 padding: 15px;
@@ -37,9 +37,9 @@ z-index: 100;
 
 body{
 	height: 2500px; 
-	padding: 88px;
+	/*padding: 88px;*/
 	}
-	/*.image1{width: 1360px;}*/
+	.image1{width: 100%;}
 
 	.text-block1{position: absolute;
 		top: 50%;
@@ -50,8 +50,8 @@ body{
 	}
 
 	.text-block2{ position: absolute;
-		top: 400px;
-		left:500px ;
+		top: 435px;
+		left:585px ;
 		font-size:18px ;
 		color: white;
 		/*transform: translate(-50%, -50%);*/}
